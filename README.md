@@ -35,4 +35,4 @@ The returned URL will be your API url. Just click the button below, and fill in 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Frishiosaur%2Fll&env=apiURL&project-name=link-shortener&repo-name=link-shortener)
 
-`this line was edited with the sole purpose of triggering a redeploy on vercel. i should probably use a github action or smthn so i don't have to do this lmao`
+`this line was edited with the sole purpose of triggering a redeploy on vercel. i should probably use a github action or smthn so i don't have to do this`
