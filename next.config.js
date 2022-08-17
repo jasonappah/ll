@@ -23,7 +23,7 @@ module.exports = {
 		return redirects
 	},
 	async rewrites() {
-		const rewrites = [{source: '/resume', destination: 'https://n.jasonaa.me/print/cecadd452a544172a6a95a9fc273d44f?omitFinalPage'}]
+		const rewrites = []
 
 		if (!process.env.baseUrl) {
 			rewrites.push({
